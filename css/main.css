@@ -1,0 +1,11 @@
+@charset "utf-8";
+.mainContent
+{
+	text-align:center;
+	margin-top:300px;
+}
+.mainText
+{
+	text-align:center;
+	font-size:36px;
+}

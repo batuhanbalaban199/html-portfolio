@@ -1,0 +1,17 @@
+@charset "utf-8";
+.aboutMeContent
+{
+	display:inline-block;
+	margin-top:100px;
+	margin-left:30px;
+	position:fixed;
+}
+.imgContent
+{
+	display:inline-block;
+}
+.content
+{
+	display:inline-block;
+	margin-top:100px;
+}
